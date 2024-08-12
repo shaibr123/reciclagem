@@ -10,25 +10,25 @@ const caixaResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-     enunciado: "A inteligência artificial (IA) é um conjunto de tecnologias que permitem aos computadores executar uma variedade de funções avançadas. Quais são as implicações da IA na privacidade dos dados?",
+     enunciado: "1.Quais são os principais materiais que podem ser reciclados e como devem ser preparados antes da coleta?"
        alternativas: [
-           "A IA, embora possa desempenhar um papel fundamental na detecção e prevenção de ameaças à segurança.",
-           "Também pode ser usada como uma ferramenta para a invasão de privacidade."
+           "A reciclagem, possibilita desempenhar um papel fundamental na detecção e prevenção de ameaças à saude.",
+           "Também pode ser uma ferramenta para a reduçao de novos transmissores de doenças."
        ]
     },
     
     {
-     enunciado: "Inteligência artificial criando artistas 100% virtuais; músicas, obra de arte,incentivando o consumo não consciente  prejudicando a tradição e cultura. Como preservar a tradição e a cultura no atual contexto regido pelas inteligências artificiais",
+     enunciado: "Quais são os desafios mais comuns enfrentados pelos sistemas de reciclagem em áreas urbanas e rurais?",
       alternativas: [
-           "Realizando pesquisas para saber sobre suas tradições e culturas.",
-            "Alternativa 2"
+           "falta de saneamento basico.",
+            "problema na coleta do lixo sendo ele reciclado ou nao."
        ]
     },
     {
-        enunciado: "Tomamos como referência que um consumo consciente é aquele do qual o indivíduo compra somente o necessário, Como a sociedade poderia ter um consumo conciente, Buscando informações no IA?",
+        enunciado: "Como a reciclagem contribui para a preservação ambiental e a redução da pegada de carbono?",
       alternativas: [
-               "Buscando informação na legislação da saúde",
-               "Confronto das informações da inteligengia artificial e a pessoal"
+               "diminuindo a puluicao, e reduzindo o gás carbonico na atmosfera.",
+               "poluindo menos e causando menos erozao."
        ]
     }
      ];
