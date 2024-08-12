@@ -11,11 +11,11 @@ const caixaResultado = document.querySelector(".texto-resultado");
 const perguntas = [
     {
      enunciado: "1.Quais são os principais materiais que podem ser reciclados e como devem ser preparados antes da coleta?"
-       alternativas: [
+    alternativas: [
            "A reciclagem, possibilita desempenhar um papel fundamental na detecção e prevenção de ameaças à saude.",
            "Também pode ser uma ferramenta para a reduçao de novos transmissores de doenças."
        ]
-    },
+   },
     
     {
      enunciado: "Quais são os desafios mais comuns enfrentados pelos sistemas de reciclagem em áreas urbanas e rurais?",
