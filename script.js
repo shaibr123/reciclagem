@@ -14,8 +14,8 @@ const perguntas = [
             },
             {
                 texto: "Quais são os desafios mais comuns enfrentados pelos sistemas de reciclagem em áreas urbanas e rurais?",
-                afirmacao: "falta de saneamento basico.", "problema na coleta do lixo sendo ele reciclado ou nao."
-               }
+                afirmacao: "falta de saneamento basico.", "problema na coleta do lixo sendo ele reciclado ou nao.",
+            }
           ]
     },
     {
