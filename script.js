@@ -12,7 +12,7 @@ const perguntas = [
                 texto: "Também pode ser uma ferramenta para a reduçao de novos transmissores de doenças.",
                 afirmacao: "isso e um fato bem revelante"
             },
-            {
+            {                                                                                                  
                 texto: "Quais são os desafios mais comuns enfrentados pelos sistemas de reciclagem em áreas urbanas e rurais",
                 afirmacao: "falta de saneamento basico"
             }
@@ -50,7 +50,7 @@ const perguntas = [
 
 let atual = 0;
 let perguntaAtual;
-let historiaFinal = "";
+let historiaFinal = "voce descide o futuro do nosso planeta";
 
 function mostraPergunta() {
     if (atual >= perguntas.length) {
