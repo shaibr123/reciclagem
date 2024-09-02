@@ -13,16 +13,16 @@ const perguntas = [
                 afirmacao: "isso e um fato bem revelante"
             },
             {
-                texto: "Quais são os desafios mais comuns enfrentados pelos sistemas de reciclagem em áreas urbanas e rurais?",
+                texto: "Quais são os desafios mais comuns enfrentados pelos sistemas de reciclagem em áreas urbanas e rurais",
                 afirmacao: "falta de saneamento basico"
             }
           ]
     },
     {
-        enunciado: "Como a reciclagem contribui para a preservação ambiental e a redução da pegada de carbono?",
+        enunciado: "Como a reciclagem contribui para a preservação ambiental e a redução da pegada de carbono",
         alternativas: [
             {
-                texto: "diminuindo a puluicao, e reduzindo o gás carbonico na atmosfera.",
+                texto: "diminuindo a puluicao, e reduzindo o gás carbonico na atmosfera",
                 afirmacao: "voce tem uma visao bem ampla e inovadora"
             },
             {
