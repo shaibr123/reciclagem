@@ -10,7 +10,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Também pode ser uma ferramenta para a reduçao de novos transmissores de doenças.",
-                afirmacao: "afirmação"
+                afirmacao: "isso e um fato bem revelante"
             },
             {
                 texto: "Quais são os desafios mais comuns enfrentados pelos sistemas de reciclagem em áreas urbanas e rurais?",
@@ -23,7 +23,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "diminuindo a puluicao, e reduzindo o gás carbonico na atmosfera.",
-                afirmacao: "afirmação"
+                afirmacao: "voce tem uma visao bem ampla e inovadora"
             },
             {
                 texto: "trabalhando a influência das tradições e culturas em nosso cotidiano",
